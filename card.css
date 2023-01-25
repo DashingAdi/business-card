@@ -1,0 +1,20 @@
+body {
+    font-family: verdona;
+}
+
+.card {
+    display: flex;
+    margin: 40px auto; 
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 8px solid #d8cbfe;
+    width: 500px;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+}
+
+.image {
+    width: 150px;
+}
+
